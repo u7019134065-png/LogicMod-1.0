@@ -1,0 +1,13 @@
+{
+  "name": "Logic Bot",
+  "unitType": "Land",
+  "cost": 100,
+  "strength": 20,
+  "movement": 2,
+  "requiredTech": "Logic Research",
+  "uniques": [
+    "Can build [Roads]",
+    "Heals 10 HP when killing a unit"
+  ],
+  "civilopediaText": "Робот-логик, созданный инженерами LogicNation для исследования мира."
+}
