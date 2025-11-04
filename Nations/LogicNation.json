@@ -1,0 +1,12 @@
+{
+  "name": "LogicNation",
+  "adjective": "логиков",
+  "cities": ["Кодоград", "Централ", "Модополис"],
+  "startBias": ["Plains"],
+  "preferredVictoryType": "Scientific",
+  "leaderName": "ЕЕее1405",
+  "civilopediaText": "Нация программистов и инженеров, ведущая мир к разумным технологиям.",
+  "uniques": [
+    "Starts with [Logic Research]"
+  ]
+}
