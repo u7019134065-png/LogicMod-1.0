@@ -1,0 +1,12 @@
+{
+  "name": "Logic Research",
+  "cost": 160,
+  "era": "Classical",
+  "requiredTechs": ["Writing"],
+  "uniques": [
+    "Unlocks building [Logic Lab]",
+    "Unlocks unit [Logic Bot]"
+  ],
+  "civilopediaText": "Исследование логических систем и искусственного интеллекта.",
+  "quote": "Логика — это мост между хаосом и порядком. — ЕЕее1405"
+}
